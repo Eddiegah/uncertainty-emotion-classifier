@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.9367,
+  "weighted_f1": 0.935,
+  "ece": 0.0301,
+  "n_evaluated": 300
+}
